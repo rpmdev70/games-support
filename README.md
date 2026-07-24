@@ -1,7 +1,7 @@
-# D A Games Support Site
+# RPM Games Support Site
 
 Static support and privacy pages for mobile games currently published under the
-D A Games identity.
+RPM Games identity.
 
 The site is designed for deployment through GitHub Pages.
 
